@@ -1,2 +1,2 @@
 # FlappyBird
- Jogo FlappyBird criado em Javascript
+ Jogo FlappyBird criado em Javascript puro.
